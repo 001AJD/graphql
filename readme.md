@@ -1,4 +1,4 @@
-# 🎬 api-mflix
+# 🎬 GRAPHQL API
 
 ### The GraphQL API built to expose sample users data 🔥
 
